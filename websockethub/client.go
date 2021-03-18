@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/pemontto/hive.go/typeutils"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/iotaledger/hive.go/protocol/message"
+	"github.com/pemontto/hive.go/protocol/message"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/timedqueue"
+	"github.com/pemontto/hive.go/timedqueue"
 )
 
 // region TimedExecutor ////////////////////////////////////////////////////////////////////////////////////////////////

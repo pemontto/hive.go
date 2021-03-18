@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/kvstore/badger"
-	"github.com/iotaledger/hive.go/kvstore/bolt"
-	"github.com/iotaledger/hive.go/kvstore/mapdb"
-	"github.com/iotaledger/hive.go/kvstore/pebble"
+	"github.com/pemontto/hive.go/kvstore"
+	"github.com/pemontto/hive.go/kvstore/badger"
+	"github.com/pemontto/hive.go/kvstore/bolt"
+	"github.com/pemontto/hive.go/kvstore/mapdb"
+	"github.com/pemontto/hive.go/kvstore/pebble"
 	"github.com/stretchr/testify/require"
 )
 

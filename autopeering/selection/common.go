@@ -3,14 +3,14 @@ package selection
 import (
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/logger"
+	"github.com/pemontto/hive.go/autopeering/peer"
+	"github.com/pemontto/hive.go/logger"
 )
 
 // Default values for the global parameters
 const (
-	DefaultInboundNeighborSize        = 4
-	DefaultOutboundNeighborSize       = 4
+	DefaultInboundNeighborSize        = 8
+	DefaultOutboundNeighborSize       = 8
 	DefaultSaltLifetime               = 2 * time.Hour
 	DefaultOutboundUpdateInterval     = 1 * time.Second
 	DefaultFullOutboundUpdateInterval = 1 * time.Minute

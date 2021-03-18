@@ -6,10 +6,10 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/syncutils"
-	"github.com/iotaledger/hive.go/timedexecutor"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/pemontto/hive.go/kvstore"
+	"github.com/pemontto/hive.go/syncutils"
+	"github.com/pemontto/hive.go/timedexecutor"
+	"github.com/pemontto/hive.go/typeutils"
 )
 
 type CachedObject interface {

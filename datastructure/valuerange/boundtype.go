@@ -3,8 +3,8 @@ package valuerange
 import (
 	"fmt"
 
-	"github.com/iotaledger/hive.go/cerrors"
-	"github.com/iotaledger/hive.go/marshalutil"
+	"github.com/pemontto/hive.go/cerrors"
+	"github.com/pemontto/hive.go/marshalutil"
 	"golang.org/x/xerrors"
 )
 

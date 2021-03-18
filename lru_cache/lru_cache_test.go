@@ -2,8 +2,8 @@ package lru_cache_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/hive.go/lru_cache"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/pemontto/hive.go/lru_cache"
+	"github.com/pemontto/hive.go/typeutils"
 	"testing"
 )
 

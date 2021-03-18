@@ -4,8 +4,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/iotaledger/hive.go/crypto/ed25519"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/pemontto/hive.go/crypto/ed25519"
+	"github.com/pemontto/hive.go/identity"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,10 +8,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/pemontto/hive.go/typeutils"
 
-	"github.com/iotaledger/hive.go/platform"
-	"github.com/iotaledger/hive.go/reflect"
+	"github.com/pemontto/hive.go/platform"
+	"github.com/pemontto/hive.go/reflect"
 )
 
 // region interfaces ///////////////////////////////////////////////////////////////////////////////////////////////////

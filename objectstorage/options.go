@@ -8,7 +8,7 @@ import (
 
 	"github.com/mr-tron/base58"
 
-	"github.com/iotaledger/hive.go/kvstore"
+	"github.com/pemontto/hive.go/kvstore"
 )
 
 type Options struct {

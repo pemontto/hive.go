@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/peer/peertest"
-	"github.com/iotaledger/hive.go/autopeering/salt"
-	"github.com/iotaledger/hive.go/events"
-	"github.com/iotaledger/hive.go/identity"
-	"github.com/iotaledger/hive.go/kvstore/mapdb"
+	"github.com/pemontto/hive.go/autopeering/peer"
+	"github.com/pemontto/hive.go/autopeering/peer/peertest"
+	"github.com/pemontto/hive.go/autopeering/salt"
+	"github.com/pemontto/hive.go/events"
+	"github.com/pemontto/hive.go/identity"
+	"github.com/pemontto/hive.go/kvstore/mapdb"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/iotaledger/hive.go/byteutils"
-	"github.com/iotaledger/hive.go/types"
+	"github.com/pemontto/hive.go/byteutils"
+	"github.com/pemontto/hive.go/types"
 	"go.etcd.io/bbolt"
 
-	"github.com/iotaledger/hive.go/kvstore"
+	"github.com/pemontto/hive.go/kvstore"
 )
 
 const (

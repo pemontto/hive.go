@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/pemontto/hive.go/syncutils"
 )
 
 // BatchWriteObject is an object that can be persisted to the KVStore in batches using the BatchedWriter.

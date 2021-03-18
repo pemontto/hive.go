@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/events"
+	"github.com/pemontto/hive.go/events"
 	"go.uber.org/atomic"
 )
 
